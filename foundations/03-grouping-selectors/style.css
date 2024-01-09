@@ -1,0 +1,15 @@
+.affirm,
+.negate {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman" sans-serif;
+}
+
+.affirm {
+    background-color: black;
+    color: white;
+}
+
+.negate {
+    background-color: yellow;
+}
+
